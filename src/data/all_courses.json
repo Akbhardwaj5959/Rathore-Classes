@@ -1,0 +1,56 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Business Analytics",
+      "slug": "business-analytics",
+      "description": "Unlock the power of data to make smarter business decisions with our Business Analytics course. Learn how to analyze and interpret data using tools like Excel, Power BI, and Python to drive decision-making processes.",
+      "price": 99.99,
+      "Key Technologies": "Excel, Power BI, Python, SQL",
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/web-development.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Machine Learning",
+      "slug": "machine-learning",
+      "description": "Dive into the world of AI and Machine Learning to build predictive models, solve real-world problems, and develop data-driven solutions. Learn using Python, TensorFlow, and Scikit-learn.",
+      "price": 109.99,
+      "Key Technologies": "Python, TensorFlow, Scikit-learn, AI, Deep Learning",
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "/courses/python.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Data Science",
+      "slug": "data-science",
+      "description": "Dive into the world of data science with our comprehensive course covering data analysis, visualization, and machine learning.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/data-science.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "PowerBI Mastery",
+      "slug": "powerbi-mastery",
+      "description": "Master PowerBI with our comprehensive course covering all skill levels.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": true,
+      "image": "/courses/powerbi.png"
+    },
+    {
+      "id": 5,
+      "title": "Data Analysis with Excel",
+      "slug": "data-analysis-with-excel",
+      "description": "Learn the art of data analysis with this course designed for all levels.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": true,
+      "image": "/courses/data-analysis.jpeg"
+    }
+  ]
+}
